@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171151452115",
+    "project_id": "second-attempt-becf1",
+    "storage_bucket": "second-attempt-becf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171151452115:android:d98d5a6104f3bece137126",
+        "android_client_info": {
+          "package_name": "com.example.portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNCMbeQLBSXTHZQ00-39hWmoiC6E0piEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
