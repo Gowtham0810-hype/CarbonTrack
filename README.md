@@ -5,13 +5,14 @@
 
 ## About
 
-A Comprehensive Flutter Application for Carbon Footprint Management with AI-Powered Image Recognition and Advanced Natural Language Processing Capabilities
+A Comprehensive Flutter Application for Carbon Footprint Management with AI-Powered Image Recognition and Advanced Natural Language Processing Capabilities along with personalized 
+AI recommendatioins on reducing carbon emissions
 
 ## Features
 
 - **Feature 1**: [AI image scanner feature that provides carbon footprint of scanned image and adds it to the monthly emission list
 - **Feature 2**: notes transcrption feature that converts provided notes into emission associated value upon swiping
-- **Feature 3**: [AI recommendation page that provides personalized recommendations according to users carbon emission]
+- **Feature 3**: [AI recommendation page that provides personalized carbon emission reduction recommendations according to users carbon emission]
 
 ## Screenshots
 
