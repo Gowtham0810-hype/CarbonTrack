@@ -1,7 +1,7 @@
 # Carbon-Footprint-Scanner-Application
 
 
-![App Logo](logo.png) 
+<img src="assets/logo.png" alt="App Logo" width="200"/>
 
 ## About
 
