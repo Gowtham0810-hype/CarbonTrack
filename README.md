@@ -49,22 +49,20 @@ flutter run
 flutter build apk
 ```
 ## 🎨 Screenshots
-
 ### Home Screen
-![Home Screen](Screenshots/home%20page/Screenshot%202024-11-19%20230251.png) <!-- Replace with actual screenshot path -->
+<img src="Screenshots/home%20page/Screenshot%202024-11-19%20230251.png" width="300"/>
 
 ### AI Image Scanner
-![Image scan or upload Screen](Screenshots/Image%20Scanner/Screenshot%202024-11-19%20230707.png) 
-![Image check screen](Screenshots/Image%20Scanner/Screenshot%202024-11-19%20230729.png) <!-- Replace with actual screenshot path -->
+<img src="Screenshots/Image%20Scanner/Screenshot%202024-11-19%20230707.png" width="300"/> <img src="Screenshots/Image%20Scanner/Screenshot%202024-11-19%20230729.png" width="300"/>
 
 ### Emission Screen
-![Add EMmissions](Screenshots/Add%20Emission/Screenshot%202024-11-19%20230309.png)
+<img src="Screenshots/Add%20Emission/Screenshot%202024-11-19%20230309.png" width="300"/>
 
 ### AI Recommendations Screen
-![User Specific AI Recommendations](Screenshots/AI%20Recommendation/Screenshot%202024-11-19%20230500.png)
+<img src="Screenshots/AI%20Recommendation/Screenshot%202024-11-19%20230500.png" width="300"/>
 
 ### Notes Screen
-![Add Notes for nlp processing](Screenshots/Notes%20Add/Screenshot%202024-11-19%20230618.png)<!-- Replace with actual screenshot path -->
+<img src="Screenshots/Notes%20Add/Screenshot%202024-11-19%20230618.png" width="300"/><!-- Replace with actual screenshot path -->
 
 ## 📞 Contact
 For any issues, reach out via:
