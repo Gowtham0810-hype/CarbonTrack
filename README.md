@@ -65,4 +65,10 @@ flutter build apk
 
 ### Notes Screen
 ![Add Notes for nlp processing](Screenshots/Notes%20Add/Screenshot%202024-11-19%20230618.png)<!-- Replace with actual screenshot path -->
+
+## 📞 Contact
+For any issues, reach out via:
+- Email: adamgoya0810@gmail.com
+- GitHub: https://github.com/Gowtham0810-hype
+
    
