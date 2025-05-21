@@ -1,4 +1,4 @@
-# Carbon-Footprint-Scanner-Application
+# CarbonTrack
 
 
 <img src="logo.png" alt="App Logo" width="200"/>
